@@ -1,2 +1,2 @@
-a free software
+a free software GitBash
 version control system
