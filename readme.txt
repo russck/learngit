@@ -4,4 +4,4 @@ version3
 version4
 version5
 false
-branch dev new line
+Newline for feature1
